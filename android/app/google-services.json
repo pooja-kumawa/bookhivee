@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "90478953357",
+    "project_id": "bookhivee",
+    "storage_bucket": "bookhivee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90478953357:android:295f4079167778daf473c4",
+        "android_client_info": {
+          "package_name": "com.example.bookhivee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90478953357-d4k7mmtugrbo3ct6l0p9o4sgmn0i6k16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookhivee",
+            "certificate_hash": "b9ea3c6abee79a5975d06e244908f3fe6d8a801d"
+          }
+        },
+        {
+          "client_id": "90478953357-9i5rlp8eu295jmoj539n4p6tc876lb5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBQs0BByHm8Wj3BGDncdjxKndyyldLnLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90478953357-9i5rlp8eu295jmoj539n4p6tc876lb5u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90478953357-eki29d7ntbbr4icpqduqbnirpaq7iq8t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shikha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
